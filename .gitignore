@@ -1,0 +1,12 @@
+# Ignore NumPy data files
+*.npy
+
+# Ignore backup and system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter auto-generated folders
+.ipynb_checkpoints/
+
+# Ignore Conda environment files
+.conda/

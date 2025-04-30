@@ -5,9 +5,10 @@ This project is part of a neuroinformatics course and involves classifying neura
 ## Repository Contents
 
 - `project-Melissa-Timmermeister-1005348.ipynb` — Jupyter Notebook containing the full project
-- `requirements.txt` — automatically generated containing the Python dependencies required to run the notebook.
+- `requirements.txt` — automatically generated containing the Python dependencies required to run the notebook
 - `README.md` — Overview of the project
-- `slides-Melissa-Timmermeister-1005348.pdf` — Presentation summarizing the project (see Requirement 4).
+- `slides-Melissa-Timmermeister-1005348.pdf` — Presentation summarizing the project (see Requirement 4)
+- `.gitignore` — tells Git which files to ignore, so they don’t accidentally get staged or committed (reason statet below under "Data")
 
 ## Data
 
